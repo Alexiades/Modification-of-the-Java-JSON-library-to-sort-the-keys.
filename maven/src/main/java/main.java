@@ -10,7 +10,7 @@ import org.json.simple.JSONObject;
  *                                                  *
  *  Example of the modificated Json.Simple Libary   *
  *  for order the fields of the Json that comes     *
- *  from an array.                                  *
+ *  from an array, in this case.                     *
  *                                                  *
  ***************************************************/
 
