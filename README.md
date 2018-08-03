@@ -39,7 +39,7 @@ I add a little program example to test the library. In the follow steps I show t
 
 ### Break down into end to end tests
 
-1/The initial array that we want to parse in order into an JSON
+1/Initial order of the array that we wants to parse in order into an JSON
 
 ```
 	String[] header={"Name","Surname","Country","State","City", "Address","PostalCode"};
@@ -76,9 +76,9 @@ I add a little program example to test the library. In the follow steps I show t
 
 ```
 
-3/Delete the maven depencie and add the json-simple-order.jar
+3/Delete the maven dependencie and add the json-simple-order.jar
 
- 2.2/Result of JSON with the json-simple-order.jar library
+ 2.2/Result of the JSON with the json-simple-order.jar library
 
 ```
 {
